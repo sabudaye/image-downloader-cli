@@ -1,7 +1,9 @@
 ## ImageDownloader cli
 Simple command-line tool for [image_downloader](https://github.com/Mugimaru/image-downloader)
 ### Installation
-    bundle install # to get image_downloader from github
+    git clone https://github.com/Mugimaru/image-downloader-cli.git
+    cd image_downloader_cli/
+    bundle install
 ### Usage
     ruby grab.rb <url> [folder]
 For example
