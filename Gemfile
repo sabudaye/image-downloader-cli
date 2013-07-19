@@ -1,0 +1,1 @@
+gem 'image_downloader', :git => 'https://github.com/Mugimaru/image-downloader.git', :branch => 'gemification'
